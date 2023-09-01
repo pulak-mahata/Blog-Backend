@@ -1,6 +1,6 @@
-/server/.env
-/server/node_modules
-/server/pakage-lock.json
+/.env
+/node_modules
+/pakage-lock.json
 # /client/node_modules
 # /client/pakage-lock.json
 # /client/.env
